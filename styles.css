@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(183, 194, 204);
+}
+
+li {
+    display: inline;
+    text-align: center;
+    list-style-type: none;
+    border-right: 1px solid #bbb;
+}
+
+ul {
+    background-color: rgb(98, 113, 197);
+    padding: 40px 0px 0px 10px;
+    text-align: center;
+}
+
+.active {
+    background-color: #04aa6d;
+}
+
+h1 {
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+}
+
+.profile {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#languages {
+    height: 100px;
+    width: 100px;
+
+}
+
+.html {
+    height: 500px;
+    width: 500px;
+}
+
+
+.css {
+    height: 500px;
+    width: 500px;
+    }
+
+.javascript {
+    height: 500px;
+    width: 500px;
+}
